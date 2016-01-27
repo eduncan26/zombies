@@ -1,0 +1,26 @@
+{
+  "name": "zombies",
+  "version": "0.0.1",
+  "description": "ZOMBIES!",
+  "main": "zombies.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "ZOMBIES?!",
+    "ZOMBIES!"
+  ],
+  "author": "Evan Duncan",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.2.0",
+    "should": "^8.2.0"
+  },
+  "dependencies": {
+    "sleep": "^3.0.0"
+  }
+}
